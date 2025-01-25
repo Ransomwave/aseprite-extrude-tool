@@ -2,7 +2,7 @@
 
 This repository contains a script for Aseprite that helps you extrude tiles in a tilesheet. This is particularly useful for game development, where you need to avoid texture bleeding.
 
-This script is a direct port of the [Tileset Extruder by sergiss](https://github.com/sergiss/tileset-extruder/tree/master) for Aseprite. Please check his work out!
+This script is a direct port of the [Tileset Extruder by sergiss](https://github.com/sergiss/tileset-extruder/tree/master)'s Javascript web app to Lua for Aseprite.
 
 ## Features
 
