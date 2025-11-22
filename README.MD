@@ -19,10 +19,8 @@ This script is a direct port of the [Tileset Extruder by sergiss](https://github
 ## Installation
 
 1. Download the `extrude-tilesheet.lua` script.
-
    - Direct Download: [extrude-tilesheet.lua](https://github.com/Ransomwave/aseprite-extrude-tool/blob/main/extrude-tilesheet.lua) _(Click on "Download raw file")_
    - Or Clone the repository: `git clone https://github.com/Ransomwave/aseprite-extrude-tool.git`
-
 2. Open Aseprite.
 3. Go to `File > Scripts > Open Script Folder`.
 4. Copy the `extrude-tilesheet.lua` script into the folder.
@@ -35,7 +33,6 @@ This script is a direct port of the [Tileset Extruder by sergiss](https://github
 3. Enter the amount of columns and rows.
 4. Enter the desired extrusion size in pixels.
 5. Run the script to extrude your tiles.
-6.
 
 ## Known issues:
 
