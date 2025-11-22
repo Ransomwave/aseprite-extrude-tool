@@ -2,6 +2,8 @@
 
 This repository contains a script for Aseprite that helps you extrude tiles in a tilesheet. This is particularly useful for game development, where you need to avoid texture bleeding.
 
+[![Extrude Tilesheet Gif](./readme-assets/example.gif)](./readme-assets/example.gif)
+
 This script is a direct port of the [Tileset Extruder by sergiss](https://github.com/sergiss/tileset-extruder/tree/master) for Aseprite. Please check his work out!
 
 ## Features
@@ -17,6 +19,10 @@ This script is a direct port of the [Tileset Extruder by sergiss](https://github
 ## Installation
 
 1. Download the `extrude-tilesheet.lua` script.
+
+   - Direct Download: [extrude-tilesheet.lua](https://github.com/Ransomwave/aseprite-extrude-tool/blob/main/extrude-tilesheet.lua) _(Click on "Download raw file")_
+   - Or Clone the repository: `git clone https://github.com/Ransomwave/aseprite-extrude-tool.git`
+
 2. Open Aseprite.
 3. Go to `File > Scripts > Open Script Folder`.
 4. Copy the `extrude-tilesheet.lua` script into the folder.
@@ -29,6 +35,7 @@ This script is a direct port of the [Tileset Extruder by sergiss](https://github
 3. Enter the amount of columns and rows.
 4. Enter the desired extrusion size in pixels.
 5. Run the script to extrude your tiles.
+6.
 
 ## Known issues:
 
