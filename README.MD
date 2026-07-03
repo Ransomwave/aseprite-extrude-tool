@@ -2,15 +2,16 @@
 
 This repository contains a script for Aseprite that helps you extrude tiles in a tilesheet. This is particularly useful for game development, where you need to avoid texture bleeding.
 
-[![Extrude Tilesheet Gif](./readme-assets/example.gif)](./readme-assets/example.gif)
+[![Extrude Tilesheet Gif](./assets/example.gif)](./assets/example.gif)
 
 This script is a direct port of the [Tileset Extruder by sergiss](https://github.com/sergiss/tileset-extruder/tree/master) for Aseprite. Please check his work out!
 
 ## Features
 
 - Extrudes tiles in a tilesheet to prevent texture bleeding.
-- Easy to use with Aseprite.
 - Customizable extrusion size.
+- Customizable scaling factor.
+- Command-line interface
 
 ## Requirements
 
